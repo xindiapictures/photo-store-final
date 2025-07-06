@@ -1,6 +1,5 @@
 
 import { useState } from 'react'
-import './App.css'
 
 function App() {
   const [message, setMessage] = useState('Welcome to the Photo Store!')
